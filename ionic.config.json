@@ -2,5 +2,7 @@
   "name": "love-calculator",
   "app_id": "51d87709",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
